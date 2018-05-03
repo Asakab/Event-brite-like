@@ -1,11 +1,7 @@
 <h1>Bienvenue sur ma page!</h1>
 
 
-<%=  form_tag :action => :create do %>
+  <h3>
+    Clique sur ce lien pour te connecter<%= link_to " par ici", new_user_path %>
+  </h3>
 
-<%= label_tag :name, 'Type your name' %><br>
-<%= text_field_tag :name %><br><br>
-
-<%= submit_tag 'Sign in' %>
-
-<% end %>

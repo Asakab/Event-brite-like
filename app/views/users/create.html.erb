@@ -1,13 +1,7 @@
 <h1>Bienvenue sur ton profil, <%=@user.name%>!</h1><br><br>
 
-<h2>Crées ton événément</h2>
-<%= form_tag :action => :create do %>
+<h2><%= link_to "Clique ici pour créer ton événement", new_event_path %></h2>
 
-<%= label_tag :name, 'Type your name' %><br>
-<%= text_field_tag :name %><br><br>
 
-<%= submit_tag 'Sign in' %>
-
-<% end %>
 
 

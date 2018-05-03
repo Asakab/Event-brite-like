@@ -1,2 +1,10 @@
-<h1>Users#new</h1>
-<p>Find me in app/views/users/new.html.erb</p>
+<h1>Inscris-toi !</h1>
+
+<%=  form_tag :action => :create do %>
+
+<%= label_tag :name, 'Entre ton nom' %><br>
+<%= text_field_tag :name %><br><br>
+
+<%= submit_tag 'Sign in' %>
+
+<% end %>
