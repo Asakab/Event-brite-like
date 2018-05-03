@@ -9,7 +9,7 @@ class EventsController < ApplicationController
   end
 
   def show
-    @event = Event.create(description: params['description'], date: params['date'], place: params['place'])
+    @events =  Event.all #create(description: params['description'], date: params['date'], place: params['place'])
   end
 
 

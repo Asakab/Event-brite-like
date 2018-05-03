@@ -1,25 +1,40 @@
-# README
+# Event-brite
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Faire son premier CRUD : Create, Read, Update, Destroy. Nous allons faire une plateforme où les moussaillons peuvent balancer des ragots anonymement, et évidemment mettre cette plateforme en production sur 
+### Heroku : https://morning-anchorage-54449.herokuapp.com/
 
-Things you may want to cover:
+## Les étapes. 
 
-* Ruby version
+#### Nous ne sommes pas allés jusqu'au bout malgré les 2 jours intenses passés sur le projet.. Donnez-nous le secret 😭 
 
-* System dependencies
+* Creation de model et controller
 
-* Configuration
+* Mise en forme de la page home
 
-* Database creation
+* New, Create & Show
 
-* Database initialization
+* Edit
 
-* How to run the test suite
+* Index
 
-* Services (job queues, cache servers, search engines, etc.)
+* Les commentaires (les modèles ont été créés et associés, et ça s'arrête là 😞)
 
-* Deployment instructions
+### Installation
 
-* ...
-# Event-brite-like
+Ouvrir le dossier via le terminal:
+
+```
+bundle install --without production
+```
+
+
+
+
+
+
+## Contributeurs:
+
+
+* @Abdel : http://github/com/Aitbali
+
+* @Asak : http://github/com/Asakab
