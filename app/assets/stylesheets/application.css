@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+body {
+    margin-top: 30px !important;
+}
+
+.container {
+	margin-left: 5px !important;
+}
+
+
+ul {
+
+font-size: 20px;
+width: 60%;
+position: absolute;
+height: 30px;
+justify-content: space-between;
+margin: 50px;
+}
