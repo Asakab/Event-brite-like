@@ -1,10 +1,10 @@
 # Event-brite
 
-Dans ce projet nous allons te demander de faire un site du style eventbrite : cela sera une excellente occasion de voir que tu as bien avancé en 2 semaines !  
-#### Lien Heroku : https://immense-gorge-74330.herokuapp.com/
+Dans ce projet nous allons te demander de faire un site du style eventbrite : cela sera une excellente occasion de voir que tu as bien avancé en 2 semaines ! Mdr
 
 Coucou chez correcteur, le travail n'est pas complet, il faut l'savoir .. c'pas faute d'avoir persévéré 🙄
 Bisous !  (@Asak sur slack)
+#### Lien Heroku : https://immense-gorge-74330.herokuapp.com/
 
 ## Les étapes 😭 
 
