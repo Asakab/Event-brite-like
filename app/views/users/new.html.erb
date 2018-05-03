@@ -1,10 +1,13 @@
 <h1>Inscris-toi !</h1>
 
-<%=  form_tag :action => :create do %>
 
-<%= label_tag :name, 'Entre ton nom' %><br>
+
+<%= form_tag :action => :create do  %> 
+<%= label_tag :name, 'Crée ton pseudo' %><br>
 <%= text_field_tag :name %><br><br>
 
-<%= submit_tag 'Sign in' %>
+<%= submit_tag 'Sign up'%> 
+
 
 <% end %>
+
