@@ -24,7 +24,7 @@ Bisous !  (@Asak sur slack)
 
 ## 3. Event-attendance 
 
-3.1. Show (trop chaud ❌)
+3.1. Show (un peu de done ✅ et un peu de trop chaud ❌)
 
 3.2. So past (trop chaud ❌)
 
