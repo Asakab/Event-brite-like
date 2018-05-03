@@ -1,25 +1,39 @@
 # Event-brite
 
-Faire son premier CRUD : Create, Read, Update, Destroy. Nous allons faire une plateforme où les moussaillons peuvent balancer des ragots anonymement, et évidemment mettre cette plateforme en production sur 
-### Heroku : https://morning-anchorage-54449.herokuapp.com/
+Dans ce projet nous allons te demander de faire un site du style eventbrite : cela sera une excellente occasion de voir que tu as bien avancé en 2 semaines !  
+### Lien Heroku : https://immense-gorge-74330.herokuapp.com/
 
-## Les étapes. 
+## Les étapes. 😭 
 
-#### Nous ne sommes pas allés jusqu'au bout malgré les 2 jours intenses passés sur le projet.. Donnez-nous le secret 😭 
+### 1. Models, signup, sign-in
 
-* Creation de model et controller
+1.1. Préparatifs
 
-* Mise en forme de la page home
+1.2. Les models
 
-* New, Create & Show
+1.3. Controller-Users
 
-* Edit
+## 2. Création d'événements
 
-* Index
+2.1. Création
 
-* Les commentaires (les modèles ont été créés et associés, et ça s'arrête là 😞)
+2.2. Affichage
 
-### Installation
+## 3. Event-attendance
+
+
+3.1. Show
+
+3.2. So past
+
+3.3. Rejoindre un événement
+
+3.4. Inviter ses potos
+
+3.5. Un peu de navigation
+
+
+## Installation
 
 Ouvrir le dossier via le terminal:
 
@@ -33,8 +47,5 @@ bundle install --without production
 
 
 ## Contributeurs:
-
-
-* @Abdel : http://github/com/Aitbali
 
 * @Asak : http://github/com/Asakab
